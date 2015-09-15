@@ -1,0 +1,4 @@
+TODO : 
+1.Zaincludowaæ bibliotekê jQuery
+2.Dodaæ tagi 
+3.Dodaæ treœæ html z selektorami

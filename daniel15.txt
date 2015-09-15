@@ -1,0 +1,4 @@
+List todo:
+1. Zaincludowac biblioteke Jquery
+2. Dodac tagi
+3. Dodac tresc html z selektorami

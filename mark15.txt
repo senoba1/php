@@ -1,0 +1,11 @@
+TODO:
+1. Zaincludowaæ bibliotekê jquery
+2. Dodaæ tagi 
+3. Dodaæ treœæ html z selektorami
+4. pootis
+5. pootis
+6. pootis
+7. pootis
+8. pootis
+9. pootis
+10. pootis

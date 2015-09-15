@@ -1,0 +1,6 @@
+There's no place like 127.0.0.1
+
+To do:
+1.Zaincludowac biblioteke jquery
+2.dodac tagi
+3.tresc html z selektorami

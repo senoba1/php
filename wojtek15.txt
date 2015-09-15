@@ -1,0 +1,5 @@
+TODO: 
+1. nie spaæ
+2. zainkludowac bibliotekê jQuery
+3. dodac tagi
+4. dodac treœæ html z selektorami
